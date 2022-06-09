@@ -2,8 +2,8 @@
 The API is to report the cloud instances
 
 # Verify using the deployed docker image(Docker Hub):
-Make sure the docker is installed in the machine.
-Run docker run -p 9000:9000 farheenaslam/report-service:latest
+1) Make sure the docker is installed in the machine.
+2) Run docker run -p 9000:9000 farheenaslam/report-service:latest
 The server runs on port 9000. The API can be accessed at http://localhost:9000
 
 # Set up to run locally:
